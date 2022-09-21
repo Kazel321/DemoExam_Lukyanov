@@ -1,0 +1,14 @@
+D:\1study\прог\493\DE\OOOCooker_493_Lukyanov\bin\Debug\OOOCooker_493_Lukyanov.exe.config
+D:\1study\прог\493\DE\OOOCooker_493_Lukyanov\bin\Debug\OOOCooker_493_Lukyanov.exe
+D:\1study\прог\493\DE\OOOCooker_493_Lukyanov\bin\Debug\OOOCooker_493_Lukyanov.pdb
+D:\1study\прог\493\DE\OOOCooker_493_Lukyanov\obj\Debug\OOOCooker_493_Lukyanov.csprojAssemblyReference.cache
+D:\1study\прог\493\DE\OOOCooker_493_Lukyanov\obj\Debug\OOOCooker_493_Lukyanov.Properties.Resources.resources
+D:\1study\прог\493\DE\OOOCooker_493_Lukyanov\obj\Debug\OOOCooker_493_Lukyanov.Pattern.resources
+D:\1study\прог\493\DE\OOOCooker_493_Lukyanov\obj\Debug\OOOCooker_493_Lukyanov.csproj.GenerateResource.cache
+D:\1study\прог\493\DE\OOOCooker_493_Lukyanov\obj\Debug\OOOCooker_493_Lukyanov.csproj.CoreCompileInputs.cache
+D:\1study\прог\493\DE\OOOCooker_493_Lukyanov\obj\Debug\OOOCooker_493_Lukyanov.exe
+D:\1study\прог\493\DE\OOOCooker_493_Lukyanov\obj\Debug\OOOCooker_493_Lukyanov.pdb
+D:\1study\прог\493\DE\OOOCooker_493_Lukyanov\obj\Debug\OOOCooker_493_Lukyanov.FormAuth.resources
+D:\1study\прог\493\DE\OOOCooker_493_Lukyanov\bin\Debug\System.Data.SQLite.dll
+D:\1study\прог\493\DE\OOOCooker_493_Lukyanov\bin\Debug\System.Data.SQLite.xml
+D:\1study\прог\493\DE\OOOCooker_493_Lukyanov\obj\Debug\OOOCooker_493_Lukyanov.csproj.CopyComplete
