@@ -17,8 +17,8 @@ namespace OOOCooker_493_Lukyanov
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new FormAuth());;;;;;;
-//52345
-//а123
+//56445
+//12312312
         }
     }
 }
